@@ -7,3 +7,9 @@ A PowerShell module "RayFlow" is required to run the samples. You can install it
 Once the module is available, it should be automatically imported whenever you need any of its function. In case of administrative installation, you should import module definition file ``RayFlow.psd1`` from the root path where the automation module is installed.
 
     Import-Module <extracted-path>\RayFlow.psd1
+
+# Samples listing
+## Basics
+| File     | Description  |
+| -------------------------- | ---------------------------------------------------------- |
+| **[HelloWorld.ps1](PS1-Samples/Basics/HelloWorld.ps1)** | Connect to RayFlow and list available projects. |
