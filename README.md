@@ -13,3 +13,4 @@ Once the module is available, it should be automatically imported whenever you n
 | File     | Description  |
 | -------------------------- | ---------------------------------------------------------- |
 | **[HelloWorld.ps1](PS1-Samples/Basics/HelloWorld.ps1)** | Connect to RayFlow and list available projects. |
+| **[ReadPackagesFromSpecificPhases.ps1](PS1-Samples/Basics/ReadPackagesFromSpecificPhases.ps1)** | Simple reading of packages from specific phases. |
