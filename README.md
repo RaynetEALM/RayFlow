@@ -14,3 +14,9 @@ Once the module is available, it should be automatically imported whenever you n
 | -------------------------- | ---------------------------------------------------------- |
 | **[HelloWorld.ps1](PS1-Samples/Basics/HelloWorld.ps1)** | Connect to RayFlow and list available projects. |
 | **[ReadPackagesFromSpecificPhases.ps1](PS1-Samples/Basics/ReadPackagesFromSpecificPhases.ps1)** | Simple reading of packages from specific phases. |
+
+## Advanced
+| File     | Description  |
+| -------------------------- | ---------------------------------------------------------- |
+| **[ImportCsvToRayFlow.ps1](PS1-Samples/Advanced/ImportCsvToRayFlow.ps1)** | Imports RayFlow tasks from a CSV file. |
+| **[UpdateRayFlowDatafield.ps1](PS1-Samples/Advanced/UpdateRayFlowDatafield.ps1)** | Updates a value in RayFlow based on values of other fields. |
